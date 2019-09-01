@@ -1,0 +1,1 @@
+package com.person.study.singleton;public class a {}

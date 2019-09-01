@@ -1,0 +1,1 @@
+package com.person.study.factory.abstractfactory;public class MarsHairTail implements HairTail {    @Override    public void swim() {        System.out.println("MarsHairTail swim");    }}

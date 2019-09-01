@@ -1,0 +1,1 @@
+package com.person.study.factory.abstractfactory;public interface IFactory {    Chicken createChicken();    /**     * 带鱼     * @return     */    HairTail createHairTail();}

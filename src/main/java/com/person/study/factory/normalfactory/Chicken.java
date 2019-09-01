@@ -1,0 +1,1 @@
+package com.person.study.factory.normalfactory;public class Chicken implements Bird {    @Override    public void fly() {        System.out.println("Chicken fly");    }    @Override    public void egg() {        System.out.println("Chicken egg");    }}

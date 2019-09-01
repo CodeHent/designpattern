@@ -1,0 +1,1 @@
+@startumlinterface Bird{egg--fly}interface IFactory {  IProduct createProduct(args);}Chicken -|> BirdChickenFactory -|> IFactoryChickenFactory ..> Chicken@enduml

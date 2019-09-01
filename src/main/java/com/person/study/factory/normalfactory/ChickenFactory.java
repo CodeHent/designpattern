@@ -1,0 +1,1 @@
+package com.person.study.factory.normalfactory;public class ChickenFactory implements IFactory{    @Override    public Bird createChicken() {        return new Chicken();    }}

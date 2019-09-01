@@ -1,0 +1,1 @@
+package com.person.study.factory.abstractfactory;public class EarthChicken implements Chicken {    @Override    public void fly() {        System.out.println("EarthChicken fly");    }    @Override    public void egg() {        System.out.println("EarthChicken egg");    }}

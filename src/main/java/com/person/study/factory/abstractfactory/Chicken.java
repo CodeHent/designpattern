@@ -1,0 +1,1 @@
+package com.person.study.factory.abstractfactory;public interface Chicken {    /**     * 飞翔     */    void fly();    /**     *     * 下蛋     */    void egg();}

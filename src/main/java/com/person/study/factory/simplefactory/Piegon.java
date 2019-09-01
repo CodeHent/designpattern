@@ -1,0 +1,1 @@
+package com.person.study.factory.simplefactory;public class Piegon implements Bird {    @Override    public void fly() {        System.out.println("Piegon fly");    }    @Override    public void egg() {        System.out.println("Piegon egg");    }}

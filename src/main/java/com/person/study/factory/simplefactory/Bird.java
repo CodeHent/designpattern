@@ -1,0 +1,1 @@
+package com.person.study.factory.simplefactory;public interface Bird {    /**     * 飞翔     */    void fly();    /**     *     * 下蛋     */    void egg();}

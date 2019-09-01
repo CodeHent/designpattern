@@ -1,0 +1,1 @@
+package com.person.study.factory.simplefactory;public class BirdFactory {    public static Bird createBird(Class cls)  {        try {            return (Bird) cls.newInstance();        } catch (Exception ignored) {        }        return null;    }}

@@ -1,0 +1,1 @@
+package com.person.study.factory.normalfactory;public interface IFactory {    Bird createChicken();}
